@@ -1,0 +1,27 @@
+/**my id - Fundamentals of Web Design**/
+html {
+	background-color: #ad0a02;
+	color: #d1d1d1;
+	font-family: Verdana;
+	font-size: 1em;
+}
+.mainHeading {
+	font-family: Helvetica, Ariel, Tahoma, sans-serif;
+	font-size: 4em; 
+	color: #000000;
+	text-align: center;
+}
+.paragraphHeadings {
+	font-weight: bold;
+	font-size: 14px; 
+	color: white;
+}
+.centerImage {
+	display: block;
+	margin: auto;
+	width: 80%;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
